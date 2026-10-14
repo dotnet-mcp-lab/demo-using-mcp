@@ -1,0 +1,9 @@
+# Ignore Log files
+logs/*
+*.log
+
+# Ignore other places copied executable files might be
+*.exe
+*.dll
+*.so
+*.dylib

@@ -1,0 +1,9 @@
+{
+	"mcpServers": {
+		"temperature-covert":{
+			"type": "stdio",
+			"command": "F:\\playground\\demo-using-mcp\\TemperatureConvert.exe",
+			"args": []
+		}
+	}
+}
